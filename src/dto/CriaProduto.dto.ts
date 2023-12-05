@@ -18,6 +18,10 @@ import { Transform, Type } from 'class-transformer';
 export class CriaProdutoDTO {
   @IsNotEmpty()
   @IsString()
+  usuarioId: string;
+
+  @IsNotEmpty()
+  @IsString()
   nome: string;
 
   @IsNotEmpty()
