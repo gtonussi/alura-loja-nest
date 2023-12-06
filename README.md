@@ -1,3 +1,10 @@
+# alura-loja-nest
+
+Projeto de conclusão do curso NEST.JS: CRIANDO UMA API RESTFUL @ ALURA  
+Certificado: [https://cursos.alura.com.br/user/gtonussi/course/nestjs-criando-api-resftul/certificate](https://cursos.alura.com.br/user/gtonussi/course/nestjs-criando-api-resftul/certificate)
+
+---
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
